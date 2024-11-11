@@ -1,16 +1,13 @@
 # Hammad-ul-Haq
 <h1 align="center">Hi 👋, I'm Hammad-ul-Haq</h1>
-<h3 align="center">A passionate ML Engineer from Pakistan</h3>
+<h3 align="center">A passionate Python Devloper</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammad-ul-haq&label=Profile%20views&color=0e75b6&style=flat" alt="hammad-ul-haq" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hammad-ul-haq" alt="hammad-ul-haq" /></a> </p>
 
-- 🔭 I’m currently working on **Stock Price Prediction And Forecasting Using Stacked LSTM**
 
-- 🌱 I’m currently learning **TensorFlow**
 
-- 👯 I’m looking to collaborate on **NLP, NLU and Conversational AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
